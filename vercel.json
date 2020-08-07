@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/",
+      "status": 302,
+      "headers": {
+        "Location": "https://join.slack.com/t/opennewyork/shared_invite/zt-f6ix2qrq-X7qTO9Jxd~1faupmq72tdA"
+      }
+    }
+  ]
+}
